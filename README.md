@@ -1,6 +1,6 @@
 The SQL project is meticulously crafted to support efficient storage and analysis of employee performance, departmental operations, and individual employee particulars. It features a robust database design meticulously structured to accommodate these diverse data streams. Ensuring data integrity and security, a backup database is established, serving as a failsafe mechanism to safeguard against potential data loss. The primary database is then populated with information sourced from this backup, ensuring continuity and reliability in data availability. Integral to the project are a series of SQL queries thoughtfully curated to extract actionable insights from the amassed data. These queries span various dimensions including employee distribution across departments, detailed salary analysis, departmental performance assessments, and scrutiny of recruitment sources. By leveraging these analytical tools, the organization gains the ability to make data-driven decisions, optimizing resource allocation, and fostering organizational growth.
 
 PDFS:
-https://drive.google.com/file/d/1w7ZQMFGZ4WkeNSdh-IYqqQPi9mYT2HFe/view?usp=drive_link
-https://drive.google.com/file/d/1loFisKjY_uT-Wd18lOyZPcGBDwazYbUk/view?usp=drive_link
-https://drive.google.com/file/d/17QiHdiZbcwqFJUMP7JqXHUVZ_hCzyFwC/view?usp=drive_link
+https://drive.google.com/file/d/1w7ZQMFGZ4WkeNSdh-IYqqQPi9mYT2HFe/view?usp=sharing
+https://drive.google.com/file/d/1loFisKjY_uT-Wd18lOyZPcGBDwazYbUk/view?usp=sharing
+https://drive.google.com/file/d/17QiHdiZbcwqFJUMP7JqXHUVZ_hCzyFwC/view?usp=sharing
